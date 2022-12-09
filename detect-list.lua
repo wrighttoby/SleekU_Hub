@@ -1,2 +1,2 @@
-game.CoreGui.SleekU-HUB:Destroy()
+game.CoreGui.SleekHub:Destroy()
 print("congratulations it works")
